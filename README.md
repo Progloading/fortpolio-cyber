@@ -1,4 +1,4 @@
->>Cybersecurity <<
+>>Cybersecurity <
 
 As a cybersecurity professional with a strong foundation in software engineering, I am dedicated to securing digital assets and developing robust, scalable solutions that defend against evolving cyber threats. With a comprehensive background in security paradigms, such as: Threat Detection and Analysis, Incident Responce, Network Security, Social Engineering Tacitics, Risk Management, and Cloud Computing, I leverage my software engineering expertise to design and implement secure systems from inception to deployment.
 
