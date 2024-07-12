@@ -7,3 +7,5 @@ My experience includes conducting thorough security assessments, performing pene
 In addition to technical proficiency, I possess strong problem-solving abilities and a collaborative mindset, enabling me to work seamlessly with multidisciplinary teams to achieve security objectives without compromising on functionality or user experience. I am passionate about staying at the forefront of cybersecurity advancements and continuously refining my skills through certifications, workshops, and active participation in the cybersecurity community.
 
 This GitHub repository serves as a testament to my expertise in both cybersecurity and software engineering. Here, you will find a showcase of projects, code contributions, and insights into my approach to building secure software solutions. I invite you to explore my work and engage in discussions on enhancing cybersecurity practices and software development strategies for your organization.
+
+"unable to render code block", refresh the page.
