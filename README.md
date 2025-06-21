@@ -1,11 +1,63 @@
->> Cybersecurity::
+# Welcome, I'm James Roberson
 
-As a cybersecurity professional with a strong foundation in software engineering, I am dedicated to securing digital assets and developing robust, scalable solutions that defend against evolving cyber threats. With a comprehensive background in security paradigms, such as: Threat Detection and Analysis, Incident Responce, Network Security, Social Engineering Tacitics, Risk Management, and Cloud Computing, I leverage my software engineering expertise to design and implement secure systems from inception to deployment.
+💻 Software Engineer | 🛡️ Cybersecurity Analyst | 📚 Lifelong Learner
 
-My experience includes conducting thorough security assessments, performing penetration testing, and implementing defensive strategies to mitigate risks effectively. I excel in analyzing complex codebases, identifying vulnerabilities, and implementing security measures that adhere to industry standards and compliance requirements. By integrating security into every phase of the software development lifecycle, I ensure that applications and systems are resilient against malicious attacks.
+I'm passionate about secure coding, penetration testing, and building robust software systems. With a background in software engineering 
+and hands-on cybersecurity training, I bridge the gap between development and security.
 
-In addition to technical proficiency, I possess strong problem-solving abilities and a collaborative mindset, enabling me to work seamlessly with multidisciplinary teams to achieve security objectives without compromising on functionality or user experience. I am passionate about staying at the forefront of cybersecurity advancements and continuously refining my skills through certifications, workshops, and active participation in the cybersecurity community.
+#######################################################################
 
-This GitHub repository serves as a testament to my expertise in both cybersecurity and software engineering. Here, you will find a showcase of projects, code contributions, and insights into my approach to building secure software solutions. I invite you to explore my work and engage in discussions on enhancing cybersecurity practices and software development strategies for your organization.
+## Skills & Tools
 
-"unable to render code block", refresh the page.
+**Languages:**  
+`Java` `Python` `C#` `JavaScript` `C++` `GoLang` `SQL`
+
+**Technologies & Tools:**  
+`Linux` `Wireshark` `Burp Suite` `Metasploit` `Nmap` `Docker` `Git`
+
+**Specialties::  
+- Secure Coding Practices  
+- Threat Detection & Mitigation  
+- Incident Response & Penetration Testing  
+- Full Stack Development
+
+#######################################################################
+
+## Featured Projects
+
+### VulnScan (Part I): (https://github.com/Progloading/fortpolio-cyber/blob/main/Vulnerability%20scanning%20(Part%201).pdf)
+> Is a security check to exploit potential vulnerabilities within a web application.
+
+- ✅ OWASP Top 10 Coverage  
+- 📊 HTML Report Generation  
+- 🔄 CI/CD Integrated
+
+#######################################################################
+
+### VulScan (Part II) ([https://github.com/yourusername/loganalyzr](https://github.com/Progloading/fortpolio-cyber/blob/main/Vulnerability%20scanning%20(Part%202).pdf))
+> Part II enumerates through the rest of the vulnerable site.
+
+#######################################################################
+
+## Latest Blog Posts & Tutorials
+
+<<< "5 "Getting Started in DB Security"  
+🔗 [Read on LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/posts/iamjamesroberson_github-progloadingthe-nevermore-activity-7334368281559973890-CLQi?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtJUBABE0oP6yfhk981lQsNEVmHMUgpmto))
+
+<<< "How I Built a Simple PenTest Lab with VirtualBox & Kali Linux" //UPCOMING  
+🔗 ...
+
+#######################################################################
+
+## Connect With Me
+
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/iamjamesroberson/))
+- [Portfolio Website]([github](https://github.com/Progloading))
+
+#######################################################################
+
+### ☕ Let's Collaborate!
+
+I’m open to collaboration on open-source security tools, educational content, or freelance work in secure software development.
+
+
