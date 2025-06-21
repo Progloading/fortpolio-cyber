@@ -34,7 +34,7 @@ and hands-on cybersecurity training, I bridge the gap between development and se
 
 #######################################################################
 
-### VulScan (Part II) ([https://github.com/yourusername/loganalyzr](https://github.com/Progloading/fortpolio-cyber/blob/main/Vulnerability%20scanning%20(Part%202).pdf))
+### VulScan (Part II) (https://github.com/Progloading/fortpolio-cyber/blob/main/Vulnerability%20scanning%20(Part%202).pdf)
 > Part II enumerates through the rest of the vulnerable site.
 
 #######################################################################
