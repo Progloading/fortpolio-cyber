@@ -42,7 +42,7 @@ and hands-on cybersecurity training, I bridge the gap between development and se
 ## Latest Blog Posts & Tutorials
 
 <<< "5 "Getting Started in DB Security"  
-🔗 [Read on LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/posts/iamjamesroberson_github-progloadingthe-nevermore-activity-7334368281559973890-CLQi?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtJUBABE0oP6yfhk981lQsNEVmHMUgpmto))
+🔗 Read on LinkedIn: (https://www.linkedin.com/posts/iamjamesroberson_github-progloadingthe-nevermore-activity-7334368281559973890-CLQi?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtJUBABE0oP6yfhk981lQsNEVmHMUgpmto)
 
 <<< "How I Built a Simple PenTest Lab with VirtualBox & Kali Linux" //UPCOMING  
 🔗 ...
@@ -51,8 +51,8 @@ and hands-on cybersecurity training, I bridge the gap between development and se
 
 ## Connect With Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/iamjamesroberson/))
-- [Portfolio Website]([github](https://github.com/Progloading))
+- LinkedIn: (https://www.linkedin.com/in/iamjamesroberson/)
+- Portfolio Website: (https://github.com/Progloading)
 
 #######################################################################
 
